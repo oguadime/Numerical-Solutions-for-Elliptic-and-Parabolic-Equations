@@ -3,7 +3,7 @@ This repository contains MATLAB implementations of numerical methods for solving
 
 # Decsription 
 This repository includes MATLAB scripts that implement various numerical schemes for solving nonlinear PDEs and systems of ODEs. Key highlights of the repository include:
-- Elliptic Equation Solvers (ELLIPTICFixedPoint1d.m): Solves 1D elliptic equations using a fixed-point iteration method with finite volume discretization​. ELLIPTIC1db.m: Demonstrates fixed-point solutions for 1D elliptic problems with nonlinear source terms and boundary conditions​.
+- Elliptic Equation Solvers: ELLIPTICFixedPoint1d.m; Solves 1D elliptic equations using a fixed-point iteration method with finite volume discretization​. ELLIPTIC1db.m; Demonstrates fixed-point solutions for 1D elliptic problems with nonlinear source terms and boundary conditions​.
 - Fully Implicit Systems: Implements Newton's method for solving coupled nonlinear ODE systems with options for fixed and adaptive time-stepping. Scripts: FullyImplicitSystem1a.m, FullyImplicitSystem1b.m, FullyImplicitSystem1c.m, FullyImplicitSystem2a.m, FullyImplicitSystem2b.m​
 - IMEX Scheme (IMEX.m): Combines implicit and explicit methods for solving parabolic equations with nonlinear source terms.
 
