@@ -38,7 +38,8 @@ Example 3: IMEX Scheme
 IMEX(0, 1, 1, 1, 20, 1, 0.01);
 ```
 
-## License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 ```
 Feel free to adjust any part of this README to better fit your specific needs or preferences.
+```
